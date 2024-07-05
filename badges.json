@@ -10,5 +10,11 @@
             "tooltip": "Wickerbeast Approved",
             "badge": "https://github.com/Zoidcord/assets/blob/main/badges/wickerbeast_approved.png?raw=true"
         }
+    ],
+    "711944262173982822": [
+        {
+            "tooltip": "Bebugg",
+            "badge": "https://github.com/Zoidcord/assets/blob/main/badges/bebugg.gif?raw=true"
+        }
     ]
 }
