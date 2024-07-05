@@ -4,5 +4,11 @@
             "tooltip": "Cat Lord",
             "badge": "https://github.com/Zoidcord/assets/blob/main/badges/cat_lord.png?raw=true"
         }
+    ],
+    "729194406242156545": [
+        {
+            "tooltip": "Wickerbeast Approved",
+            "badge": "https://github.com/Zoidcord/assets/blob/main/badges/wickerbeast_approved.png?raw=true"
+        }
     ]
 }
