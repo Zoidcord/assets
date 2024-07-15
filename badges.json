@@ -22,5 +22,19 @@
             "tooltip": "Funny Cube Guy",
             "badge": "https://github.com/Zoidcord/assets/blob/main/badges/funny_little_cube.png?raw=true"
         }
+    ],
+    "901867495957340240": [
+        {
+            "tooltip": "3",
+            "badge": "https://github.com/Zoidcord/assets/blob/main/badges/3.png?raw=true"
+        },
+        {
+            "tooltip": "2",
+            "badge": "https://github.com/Zoidcord/assets/blob/main/badges/2.png?raw=true"
+        },
+        {
+            "tooltip": "Gnarp Gnarp",
+            "badge": "https://github.com/Zoidcord/assets/blob/main/badges/gnarp_gnarp.png?raw=true"
+        }
     ]
 }
