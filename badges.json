@@ -46,5 +46,11 @@
             "tooltip": "The Golden Cobblestone",
             "badge": "https://github.com/Zoidcord/assets/blob/main/badges/the%20golden%20cobblestone.png?raw=true"
         }
+    ],
+    "838007310575206400": [
+        {
+            "tooltip": "Bedbug",
+            "badge": "https://github.com/Zoidcord/assets/blob/main/badges/bebugg.gif?raw=true"
+        }
     ]
 }
