@@ -13,7 +13,7 @@
     ],
     "711944262173982822": [
         {
-            "tooltip": "Bebugg",
+            "tooltip": "Bebbub",
             "badge": "https://github.com/Zoidcord/assets/blob/main/badges/bebugg.gif?raw=true"
         },
         {
@@ -49,6 +49,18 @@
         {
             "tooltip": "Boykisser",
             "badge": "https://github.com/Zoidcord/assets/blob/main/badges/meow.png?raw=true"
+        }
+    ],
+    "950558862946234429": [
+        {
+            "tooltip": "The Fox",
+            "badge": "https://github.com/Zoidcord/assets/blob/main/badges/the_fox.png?raw=true"
+        }
+    ],
+    "854820749734051880": [
+        {
+            "tooltip": "Certified Axolotl Lover",
+            "badge": "https://github.com/Zoidcord/assets/blob/main/badges/axolotl.png?raw=true"
         }
     ]
 }
