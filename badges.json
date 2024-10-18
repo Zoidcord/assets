@@ -21,16 +21,6 @@
             "badge": "https://github.com/Zoidcord/assets/blob/main/badges/jaekisser.png?raw=true"
         }
     ],
-    "866910016535527454": [
-        {
-            "tooltip": "Funny Cube Guy",
-            "badge": "https://github.com/Zoidcord/assets/blob/main/badges/funny_little_cube.png?raw=true"
-        },
-        {
-            "tooltip": "Cubekisser",
-            "badge": "https://github.com/Zoidcord/assets/blob/main/badges/cubekisser.png?raw=true"
-        }
-    ],
     "901867495957340240": [
         {
             "tooltip": "3",
@@ -61,6 +51,18 @@
         {
             "tooltip": "Certified Axolotl Lover",
             "badge": "https://github.com/Zoidcord/assets/blob/main/badges/axolotl.png?raw=true"
+        }
+    ],
+    "425778239760367617": [
+        {
+            "tooltip": "The Golden Cobblestone",
+            "badge": "https://github.com/Zoidcord/assets/blob/main/badges/the%20golden%20cobblestone.png?raw=true"
+        }
+    ],
+    "838007310575206400": [
+        {
+            "tooltip": "Bedbug",
+            "badge": "https://github.com/Zoidcord/assets/blob/main/badges/bebugg.gif?raw=true"
         }
     ]
 }
